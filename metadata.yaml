@@ -1,0 +1,30 @@
+_repo: L-Uomo-di-Fuoco_70993
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salgari, Emilio
+    birthdate: 1862
+    deathdate: 1911
+    gutenberg_agent_id: '31123'
+    url: http://www.gutenberg.org/2009/agents/31123
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Emilio_Salgari
+    - http://it.wikipedia.org/wiki/Emilio_Salgari
+description: ''
+gutenberg_issued: '2023-06-16'
+identifiers:
+  gutenberg: '70993'
+language: it
+pgterms:marc905: 20220925112834salgari
+pgterms:marc906: '1904'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aItaly :$bDonath, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'Uomo di Fuoco
+url: http://www.gutenberg.org/ebooks/70993
